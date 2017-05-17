@@ -432,7 +432,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     OnePlusCamera \
-    OnePlusCameraService \
     dashd
 
 ifeq ($(QCPATH),)
